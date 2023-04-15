@@ -11,7 +11,7 @@
 ## Завдання 1 - перемикач кольорів
 Виконуй це завдання у файлах `01-color-switcher.html` і `01-color-switcher.js`. Подивися демо-відео роботи перемикача.
 
-![Demo video switcher](https://user-images.githubusercontent.com/17479434/127716753-fabd276f-6a7d-411b-bfa2-01c818f4ea66.mp4)
+[Demo video switcher](https://user-images.githubusercontent.com/17479434/127716753-fabd276f-6a7d-411b-bfa2-01c818f4ea66.mp4)
 
 HTML містить кнопки «Start» і «Stop».
 ```
@@ -33,7 +33,7 @@ function getRandomHexColor() {
 ## Завдання 2 - таймер зворотного відліку
 Виконуй це завдання у файлах `02-timer.html` і `02-timer.js`. Напиши скрипт таймера, який здійснює зворотний відлік до певної дати. Такий таймер може використовуватися у блогах та інтернет-магазинах, сторінках реєстрації подій, під час технічного обслуговування тощо. Подивися демо-відео роботи таймера.
 
-![Demo video timer](https://user-images.githubusercontent.com/17479434/127672390-2a51efe1-06fb-41dd-86dd-8542393d3043.mp4)
+[Demo video timer](https://user-images.githubusercontent.com/17479434/127672390-2a51efe1-06fb-41dd-86dd-8542393d3043.mp4)
 
 ### Елементи інтерфейсу
 HTML містить готову розмітку таймера, поля вибору кінцевої дати і кнопку, по кліку на яку, таймер повинен запускатися. Додай мінімальне оформлення елементів інтерфейсу.
@@ -140,7 +140,7 @@ console.log(convertMs(24140000)); // {days: 0, hours: 6 minutes: 42, seconds: 20
 ## Завдання 3 - генератор промісів
 Виконуй це завдання у файлах `03-promises.html` і `03-promises.js`. Подивися демо-відео роботи генератора промісів.
 
-![Demo video promises](https://user-images.githubusercontent.com/17479434/127932183-42232f26-4db2-4614-86bc-6bec54b1d6a4.mp4)
+[Demo video promises](https://user-images.githubusercontent.com/17479434/127932183-42232f26-4db2-4614-86bc-6bec54b1d6a4.mp4)
 
 HTML містить розмітку форми, в поля якої користувач буде вводити першу затримку в мілісекундах, крок збільшення затримки для кожного промісу після першого і кількість промісів, яку необхідно створити.
 ```
